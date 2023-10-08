@@ -4,7 +4,7 @@ import { clsx } from "clsx";
 import image1 from "./front.jpeg";
 import image2 from "./one.jpeg";
 import image3 from "./two.jpeg";
-import image4 from "./last.jpeg";
+import image4 from "./last.jpg";
 import image5 from "./back.jpeg";
 // import { react } from "@vitejs/plugin-react-swc";
 import styled from "styled-components";
@@ -233,7 +233,10 @@ const Cards = () => {
           <Paper zIndex={zIndexForLink}>
             <ImageAndLink className={clsx("bg-4", paper4Flipped && "flipped")}>
               <img src={image4} alt="Image 4" />
-              <Link href="https://www.amazon.com/wedding/registry/58H2IJ9K4DQA" target="_blank">
+              <Link
+                href="https://www.amazon.com/wedding/registry/58H2IJ9K4DQA"
+                target="_blank"
+              >
                 Click here to gift couples
               </Link>
             </ImageAndLink>
