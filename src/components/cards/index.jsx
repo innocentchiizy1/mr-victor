@@ -233,7 +233,7 @@ const Cards = () => {
           <Paper zIndex={zIndexForLink}>
             <ImageAndLink className={clsx("bg-4", paper4Flipped && "flipped")}>
               <img src={image4} alt="Image 4" />
-              <Link href="https://www.google.com" target="_blank">
+              <Link href="https://www.amazon.com/wedding/registry/58H2IJ9K4DQA" target="_blank">
                 Click here to gift couples
               </Link>
             </ImageAndLink>
