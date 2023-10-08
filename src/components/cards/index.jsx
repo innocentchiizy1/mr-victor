@@ -237,7 +237,7 @@ const Cards = () => {
                 href="https://www.amazon.com/wedding/registry/58H2IJ9K4DQA"
                 target="_blank"
               >
-                CLICK HERE TO GIGT THE COUPLES
+                CLICK HERE TO GIFT THE COUPLES
               </Link>
             </ImageAndLink>
           </Paper>
