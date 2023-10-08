@@ -8,7 +8,7 @@ const useBookStore = create(() => ({
   paper5Flipped: false,
   currentLocation: 1,
   numOfPapers: 5,
-  maxLocation: 6, // You can set this according to your needs
+  maxLocation: 5, // You can set this according to your needs
 }));
 
 export default useBookStore;
