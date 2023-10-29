@@ -234,7 +234,7 @@ const Cards = () => {
             <ImageAndLink className={clsx("bg-4", paper4Flipped && "flipped")}>
               <img src={image4} alt="Image 4" />
               <Link
-                href="https://www.amazon.com/wedding/registry/58H2IJ9K4DQA"
+                href="https://www.myregistry.com/wedding-registry/francess-oko-and-christian-nwabunike-mississauga-on/3941340"
                 target="_blank"
               >
                 CLICK HERE TO GIFT THE COUPLES
