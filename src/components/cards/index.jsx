@@ -237,7 +237,7 @@ const Cards = () => {
                 href="https://www.myregistry.com/wedding-registry/francess-oko-and-christian-nwabunike-mississauga-on/3941340"
                 target="_blank"
               >
-                CLICK HERE TO GIFT THE COUPLES
+                CLICK HERE TO GIFT THE COUPLE
               </Link>
             </ImageAndLink>
           </Paper>
